@@ -12,8 +12,4 @@ destination: /var/www/html
       - location: scripts/start_nginx.sh
         timeout: 300
         runas: root
-<<<<<<< HEAD
       
-=======
-      
->>>>>>> 595c4bf25f2f8aae1da9f1e6698e8627d60262ce
